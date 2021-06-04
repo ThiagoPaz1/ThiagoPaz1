@@ -1,5 +1,18 @@
-### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+### Olá, seja bem vindo! 👋
+<h2>Minhas habilidades:</h2>
+<span>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</span>
+<span>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</span>
+<span>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</span>
+<span>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</span></br></br>
+<img src="https://github-readme-stats.vercel.app/api?username=ThiagoPaz1&show_icons=true&theme=radical">
 <!--
 **ThiagoPaz1/ThiagoPaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
