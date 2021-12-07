@@ -13,7 +13,7 @@
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </span>
 <span>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  <span/></br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoPaz1&show_icons=true&theme=radical">
 <!--
