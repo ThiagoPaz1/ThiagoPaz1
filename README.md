@@ -23,7 +23,11 @@
 <span/>
 <span>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<span/></br></br>
+<span/>
+  <span>
+    <img src="https://skillicons.dev/icons?i=nextjs,vue,postgres,postman,sequelize,git,ts,styledcomponents,docker,nestjs" />
+  <span/>
+</br></br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ThiagoPaz1&show_icons=true&theme=radical">
 <!--
